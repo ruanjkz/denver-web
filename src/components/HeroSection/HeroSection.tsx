@@ -22,7 +22,7 @@ export function HeroSection() {
                         <button className="border-2 border-solid border-black rounded-lg px-4 font-medium hover:bg-black hover:text-white transition duration-300 ease-in-out">Contate-nos</button>
                     </div>
                 </div>
-                <img className="mb-32" src={computer}/>
+                <img draggable="false" className="mb-32 ml-32" src={computer}/>
             </div>
         </>
     )

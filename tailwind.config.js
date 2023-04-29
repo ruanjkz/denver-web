@@ -10,7 +10,10 @@ export default {
         "purple-primary": "#6B63FF",
         "purple-primary-dark": "#4F48D1",
         "gray-box": "rgba(0, 0, 0, 0.01)",
-        "gray-box-border": "rgba(0, 0, 0, 0.08)"
+        "gray-box-border": "rgba(0, 0, 0, 0.08)",
+        "gray-customer": "rgba(0, 0, 0, 0.05)",
+        "gray-customer-background": "rgba(0, 0, 0, 0.15)",
+        "gray-arrow": "#A6A6A6"
       },
       fontFamily: {
         outfit: ["Outfit", "sans-serif"]

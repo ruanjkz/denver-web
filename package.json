@@ -13,6 +13,7 @@
     "aos": "^2.3.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-scroll": "^1.8.9",
     "scrollreveal": "^4.0.9",
     "typewriter-effect": "^2.19.0"
   },
@@ -20,6 +21,7 @@
     "@types/aos": "^3.0.4",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
+    "@types/react-scroll": "^1.8.6",
     "@typescript-eslint/eslint-plugin": "^5.57.1",
     "@typescript-eslint/parser": "^5.57.1",
     "@vitejs/plugin-react": "^4.0.0",

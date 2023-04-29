@@ -11,6 +11,7 @@ body::-webkit-scrollbar {
 body {
   scrollbar-width: thin;
   scrollbar-color: transparent transparent;
+  scroll-behavior: smooth;
 }
 
 /* Define a cor do track da scrollbar (opcional) */
