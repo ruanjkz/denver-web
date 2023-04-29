@@ -18,8 +18,8 @@ export function HeroSection() {
                     </div>
                     <p className="ml-2 font-medium text-lg mt-6">Que tal trabalhar com um profissional da área? <br /> Conosco a sua ideia torna-se realidade!</p>
                     <div className="ml-2 flex gap-x-6 mt-6">
-                        <a className="min-w-32 h-12 max-sm:w-52 px-6 border-2 border-solid border-purple-primary bg-purple-primary font-medium rounded-lg text-white hover:bg-purple-primary-dark hover:border-purple-primary-dark hover:text-white transition duration-300 ease-in-out flex items-center justify-center" href="https://discord.gg/pAhAzYrKnD" target="_blank">Fazer Orçamento</a>      
-                        <button className="border-2 border-solid border-black rounded-lg px-4 font-medium hover:bg-black hover:text-white transition duration-300 ease-in-out max-sm:text-sm">Contate-nos</button>
+                        <a className="min-w-32 h-12 max-sm:w-40 max-sm:text-sm max-sm:px-2 px-6 border-2 border-solid border-purple-primary bg-purple-primary font-medium rounded-lg text-white hover:bg-purple-primary-dark hover:border-purple-primary-dark hover:text-white transition duration-300 ease-in-out flex items-center justify-center" href="https://discord.gg/pAhAzYrKnD" target="_blank">Fazer Orçamento</a>      
+                        <button className="border-2 border-solid border-black rounded-lg max-sm:px-2 px-4 font-medium hover:bg-black hover:text-white transition duration-300 ease-in-out max-sm:text-[sm]">Contate-nos</button>
                     </div>
                 </div>
                 <img draggable="false" className="mb-32" src={computer}/>
