@@ -11,8 +11,8 @@ export function Customers() {
 
     return(
         <>
-            <div id='customers' className='bg-gray-customer-background px-4 py-12 items-center justify-center mt-24'>
-                <div className="flex flex-col items-center justify-center mt-40" data-aos="flip-left" data-aos-duration="1000">
+            <div id='customers' className='bg-gray-customer-background px-4 py-12 items-center justify-center mt-16'>
+                <div className="flex flex-col items-center justify-center mt-20" data-aos="flip-left" data-aos-duration="1000">
                     <h2 className="font-bold text-5xl">Nossos clientes</h2>
                     <p className="font-semibold text-medium text-lg mt-6 text-center">Conheça a satisfação dos nossos clientes e saiba por que <br /> somos a escolha número um!</p>
                 </div>
@@ -31,7 +31,7 @@ export function Customers() {
                             <small className='font-medium'>58.002 membros</small>
                         </div>
                     </div>
-                    <div data-aos="flip-up" data-aos-duration="2000" className='w-480 h-20 bg-gray-customer flex gap-x-4 px-6 items-center rounded-lg'>
+                    <div data-aos="flip-left" data-aos-duration="2000" className='w-480 h-20 bg-gray-customer flex gap-x-4 px-6 items-center rounded-lg'>
                         <img className='w-12 h-12 rounded-full' src="https://images-ext-2.discordapp.net/external/HdsKUigxZuGDJ6T_w6K1ylI4DzaGtLXbKLax9YQSIfA/https/imgur.com/QLzgRoR.gif"/>
                         <div className='flex flex-col text-left'>
                             <p className='font-bold'>RACE ULTIMATE</p>
