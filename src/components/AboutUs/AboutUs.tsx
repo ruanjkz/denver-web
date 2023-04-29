@@ -15,7 +15,7 @@ export function AboutUs () {
                 <h2 id='aboutUs' className="font-bold text-5xl">Sobre nós</h2>
                 <p  className="font-semibold text-medium text-lg mt-6 text-center">Aqui está algumas coisas sobre a nossa empresa, caso tenha <br /> dúvida contate o suporte.</p>
             </div>
-            <div className="flex gap-x-10 mt-24 max-sm:flex-col max-sm:gap-y-10">
+            <div className="flex gap-x-10 mt-24 max-sm:flex-col max-sm:gap-y-10 max-2xl:flex-col max-2xl:gap-y-10">
                     <div data-aos="zoom-in" data-aos-duration="2000" className="w-480 h-465 bg-gray-box border-2 border-solid border-gray-box-border rounded-xl flex flex-col py-8 px-10 items-center gap-y-6 ">
                         <img draggable="false" className="w-20" src={protect}/>
                         <p className="text-2xl font-medium">Proteção</p>
