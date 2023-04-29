@@ -5,6 +5,7 @@ import { Faq } from "../components/Faq/Faq"
 import { Header } from "../components/Header/Header"
 import { HeroSection } from "../components/HeroSection/HeroSection"
 import { HomeButton } from "../components/HomeButton/HomeButton"
+import { Footer } from "../components/Footer/Footer"
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <HomeButton/>
         <Demonstration/>
         <Faq/>
+        <Footer/>
       </div>
     </>
   )
