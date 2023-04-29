@@ -13,7 +13,8 @@ export default {
         "gray-box-border": "rgba(0, 0, 0, 0.08)",
         "gray-customer": "rgba(0, 0, 0, 0.05)",
         "gray-customer-background": "rgba(0, 0, 0, 0.05)",
-        "gray-arrow": "#A6A6A6"
+        "gray-arrow": "#A6A6A6",
+        "black-border-footer": "rgba(0, 0, 0, 0.08)"
       },
       fontFamily: {
         outfit: ["Outfit", "sans-serif"]
