@@ -6,7 +6,7 @@ export function Header() {
     return (
         <>
             <div className="h-40 flex items-center justify-between font-medium w-9/12">
-                <img draggable="none" src={logo}/>
+                <img  src={logo}/>
                 <div className="flex gap-10">
                     <p className="cursor-pointer">Início</p>
                     <Link activeClass="active" to="aboutUs" spy={true} smooth={true} offset={0} duration={1000}>
