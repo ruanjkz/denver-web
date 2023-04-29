@@ -13,10 +13,10 @@ export function Customers() {
         <>
             <div id='customers' className='bg-gray-customer-background px-4 py-12 flex flex-col items-center justify-center mt-16 w-screen'>
                 <div className="flex flex-col items-center justify-center mt-20" data-aos="flip-left" data-aos-duration="1000">
-                    <h2 className="font-bold text-5xl">Nossos clientes</h2>
+                    <h2 className="font-bold text-5xl max-[384px]:text-4xl">Nossos clientes</h2>
                     <p className="font-semibold text-medium text-lg mt-6 text-center">Conheça a satisfação dos nossos clientes e saiba por que <br /> somos a escolha número um!</p>
                 </div>
-                <div className='flex flex-wrap mt-12 mb-12 gap-x-4 gap-y-4 items-center justify-center w-[1497px] max-sm:flex-col max-2xl:flex-col'>
+                <div className='flex flex-wrap mt-12 mb-12 gap-x-4 gap-y-4 items-center justify-center w-[1497px] max-sm:flex-col max-2xl:flex-col max-2xl:w-[330px]'>
                     <div data-aos="flip-left" data-aos-duration="2000" className='w-480 h-20 bg-gray-customer flex gap-x-4 px-6 items-center rounded-lg max-sm:w-[310px] max-2xl:w-[310px]'>
                         <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/x43r9m/376926146.png"/>
                         <div className='flex flex-col text-left'>
