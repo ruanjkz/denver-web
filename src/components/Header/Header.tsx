@@ -5,7 +5,7 @@ export function Header() {
     var Link = Scroll.Link;
     return (
         <>
-            <div className="w-1480 h-40 flex items-center justify-between font-medium w-9/12">
+            <div className="h-40 flex items-center justify-between font-medium w-9/12">
                 <img src={logo}/>
                 <div className="flex gap-10">
                     <p className="cursor-pointer">Início</p>

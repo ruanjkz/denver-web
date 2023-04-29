@@ -11,7 +11,7 @@ export function HeroSection() {
     }, [])
     return(
         <>
-            <div data-aos="fade-up" data-aos-duration="1000" className="w-1480 h-674 mt-2 flex items-center justify-between">
+            <div data-aos="fade-up" data-aos-duration="1000" className="w-1480 h-674 mt-2 flex items-center justify-between gap-x-20 w-9/12">
                 <div className="flex flex-col gap-y-5">
                     <div className="font-bold text-7xl">
                     <Typewriter onInit={(typewriter) => {typewriter.typeString('Encontre os melhores <br /> códigos aqui!').callFunction(() => {console.log('String typed out!')}).pauseFor(1500).start()}}/>
@@ -22,7 +22,7 @@ export function HeroSection() {
                         <button className="border-2 border-solid border-black rounded-lg px-4 font-medium hover:bg-black hover:text-white transition duration-300 ease-in-out">Contate-nos</button>
                     </div>
                 </div>
-                <img draggable="false" className="mb-32 ml-32" src={computer}/>
+                <img draggable="false" className="mb-32" src={computer}/>
             </div>
         </>
     )
