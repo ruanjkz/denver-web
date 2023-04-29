@@ -27,7 +27,7 @@ export function HomeButton() {
       }, [scrollTop]);
 
     return (
-        <div onClick={() => Scroll.animateScroll.scrollToTop()} className={`rounded-full bg-gray-arrow flex items-center hover:bg-purple-primary justify-center w-10 h-10 transition ease-in-out 100s cursor-pointer fixed bottom-36 right-36 ${isVisible ? 'opacity-100 duration-500 delay-300' : 'opacity-0'}`}>
+        <div onClick={() => Scroll.animateScroll.scrollToTop()} className={`rounded-full bg-gray-arrow flex items-center hover:bg-purple-primary justify-center w-10 h-10 transition ease-in-out 100s cursor-pointer fixed bottom-24 right-20 ${isVisible ? 'opacity-100 duration-500 delay-300' : 'opacity-0'}`}>
         <img src={arrow}/>
         </div>
     );

@@ -9,7 +9,7 @@ export function Header() {
                 <img src={logo}/>
                 <div className="flex gap-10">
                     <p className="cursor-pointer">Início</p>
-                    <Link activeClass="active" to="aboutUs" spy={true} smooth={true} offset={50} duration={1000}>
+                    <Link activeClass="active" to="aboutUs" spy={true} smooth={true} offset={0} duration={1000}>
                     <p className="cursor-pointer">Sobre</p>
                     </Link>
                     <Link activeClass="active" to="aboutUssss" spy={true} smooth={true} offset={50} duration={1000}>

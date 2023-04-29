@@ -11,9 +11,9 @@ export function AboutUs () {
     }, [])
     return(
         <>
-            <div id='aboutUs' className="flex flex-col items-center justify-center mt-32" data-aos="zoom-in" data-aos-duration="1000">
-                <h2 className="font-bold text-5xl">Sobre nós</h2>
-                <p className="font-semibold text-medium text-lg mt-6 text-center">Aqui está algumas coisas sobre a nossa empresa, caso tenha <br /> dúvida contate o suporte.</p>
+            <div className="flex flex-col items-center justify-center mt-32" data-aos="zoom-in" data-aos-duration="1000">
+                <h2 id='aboutUs' className="font-bold text-5xl">Sobre nós</h2>
+                <p  className="font-semibold text-medium text-lg mt-6 text-center">Aqui está algumas coisas sobre a nossa empresa, caso tenha <br /> dúvida contate o suporte.</p>
             </div>
             <div className="flex gap-x-10 mt-24">
                     <div data-aos="zoom-in" data-aos-duration="2000" className="w-480 h-465 bg-gray-box border-2 border-solid border-gray-box-border rounded-xl flex flex-col py-8 px-10 items-center gap-y-6 ">
