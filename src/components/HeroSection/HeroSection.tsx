@@ -19,7 +19,7 @@ export function HeroSection() {
                     <p className="ml-2 font-medium text-lg mt-6">Que tal trabalhar com um profissional da área? <br /> Conosco a sua ideia torna-se realidade!</p>
                     <div className="ml-2 flex gap-x-6 mt-6">
                         <button className="min-w-32 h-12 px-6 border-2 border-solid border-purple-primary bg-purple-primary font-medium rounded-lg text-white hover:bg-purple-primary-dark hover:border-purple-primary-dark hover:text-white transition duration-300 ease-in-out">Fazer Orçamento</button>      
-                        <button className="border-2 border-solid border-black rounded-lg px-4 font-medium">Contate-nos</button>
+                        <button className="border-2 border-solid border-black rounded-lg px-4 font-medium hover:bg-black hover:text-white transition duration-300 ease-in-out">Contate-nos</button>
                     </div>
                 </div>
                 <img className="mb-32" src={computer}/>
