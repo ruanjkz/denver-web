@@ -23,37 +23,37 @@ export function Customers() {
                     </div>
                 </div>
                 <div className='w-480 h-20 bg-gray-customer flex gap-x-4 px-6 items-center rounded-lg'>
-                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/x43r9m/376926146.png"/>
+                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/wkebk7/761782077.png"/>
                     <div className='flex flex-col text-left'>
-                        <p className='font-bold'>NEXUS ROLEPLAY</p>
+                        <p className='font-bold'>NEXUS RJ</p>
                         <small className='font-medium'>138.500 membros</small>
                     </div>
                 </div>
                 <div className='w-480 h-20 bg-gray-customer flex gap-x-4 px-6 items-center rounded-lg'>
-                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/x43r9m/376926146.png"/>
+                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/y6dx8k/1837907100.png"/>
                     <div className='flex flex-col text-left'>
-                        <p className='font-bold'>NEXUS ROLEPLAY</p>
+                        <p className='font-bold'>RACE ULTIMATE</p>
                         <small className='font-medium'>138.500 membros</small>
                     </div>
                 </div>
                 <div className='w-480 h-20 bg-gray-customer flex gap-x-4 px-6 items-center rounded-lg'>
-                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/x43r9m/376926146.png"/>
+                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/wyq9ey/-1109026505.png"/>
                     <div className='flex flex-col text-left'>
-                        <p className='font-bold'>NEXUS ROLEPLAY</p>
+                        <p className='font-bold'>INFINITY ROLEPLAY</p>
                         <small className='font-medium'>138.500 membros</small>
                     </div>
                 </div>
                 <div className='w-480 h-20 bg-gray-customer flex gap-x-4 px-6 items-center rounded-lg'>
-                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/x43r9m/376926146.png"/>
+                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/zl88vd/-1023348173.png"/>
                     <div className='flex flex-col text-left'>
-                        <p className='font-bold'>NEXUS ROLEPLAY</p>
+                        <p className='font-bold'>AREA-Z ROLEPLAY</p>
                         <small className='font-medium'>138.500 membros</small>
                     </div>
                 </div>
                 <div className='w-480 h-20 bg-gray-customer flex gap-x-4 px-6 items-center rounded-lg'>
-                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/x43r9m/376926146.png"/>
+                    <img className='w-12 h-12 rounded-full' src="https://servers-live.fivem.net/servers/icon/wxd9jg/1898114881.png"/>
                     <div className='flex flex-col text-left'>
-                        <p className='font-bold'>NEXUS ROLEPLAY</p>
+                        <p className='font-bold'>KUSH NETWORK</p>
                         <small className='font-medium'>138.500 membros</small>
                     </div>
                 </div>
