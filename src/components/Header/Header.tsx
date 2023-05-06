@@ -22,7 +22,7 @@ export function Header() {
                     <p className="cursor-pointer">FAQ</p>
                     </Link>
                 </div>
-                <a className="w-24 flex items-center justify-center h-12 border-2 border-solid border-purple-primary rounded-lg text-purple-primary hover:bg-purple-primary hover:text-white transition duration-300 ease-in-out" href="https://discord.gg/QPv2XVY494"  target="_blank">Discord</a>
+                <a className="w-24 flex items-center justify-center h-12 border-2 border-solid border-purple-primary rounded-lg text-purple-primary hover:bg-purple-primary hover:text-white transition duration-300 ease-in-out" href="https://discord.gg/xSVUAJYeNS"  target="_blank">Discord</a>
             </div>
         </>
     )
